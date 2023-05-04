@@ -13,10 +13,9 @@
                   style="width: 150px; height: 150px"></lord-icon>
               </div>
               <div>
-                <h>Front End</h>
+                <h>Développement d'applications lourdes</h>
                 <p>
-                  I like to craft solid and scalable frontend products with
-                  great user experiences.
+                  J'ai appris à utiliser le C# pour créer des applications lourdes
                 </p>
               </div>
             </div>
@@ -35,10 +34,9 @@
                 </div>
               </div>
               <div>
-                <h4>Blockchain</h4>
+                <h4>Développement Web</h4>
                 <p>
-                  I also learn and work as Blockchain & Smart Contract
-                  freelancer developer.
+                  php, laravel, html css js vuejs
                 </p>
               </div>
             </div>
@@ -55,10 +53,9 @@
                   style="width: 150px; height: 150px"></lord-icon>
               </div>
               <div>
-                <h5>Mobile Apps</h5>
+                <h5>Applications Mobiles</h5>
                 <p>
-                  I also highly interested in Native & Hybrid mobile app
-                  development.
+                  Flutter Dart
                 </p>
               </div>
             </div>

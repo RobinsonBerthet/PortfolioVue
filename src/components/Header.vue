@@ -6,28 +6,25 @@
           <div class="col-lg-6 py-3 wow fadeInUp">
             <p
               class="text-green-600 hover:text-green-500 text-2xl lg:text-4xl font-medium lg:font-semibold mb-5 lg:leading-normal leading-snug">
-              HI, I'm ANASKHON
+              Bonjour, Je suis Robinson
               <br />
-              Front-End Developer,
-              <br />
-              Blockchain Engineer
+              Étudiant en développement Informatique
             </p>
             <p
               class="hidden lg:block text-2xl mb-5">
-              I like to craft solid and scalable frontend products with great
-              user experiences.
+              Je suis passioné par le développement depuis quelques années et j'adore apprendre de nouvelles choses
             </p>
 
             <router-link
               to="/about"
               name="fade"
               class="btn btn-outline border text-secondary">
-              About
+              A propos
             </router-link>
             <a
               href="#"
               class="btn btn-primary btn-split ml-2">
-              Resume
+              Télécharger mon CV
               <div class="fab"><span class="mai-play"></span></div>
             </a>
           </div>

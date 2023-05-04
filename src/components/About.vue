@@ -15,33 +15,39 @@
 
         <div class="col-lg-6 p-4">
           <h2 class="title-section text-2xl">
-            All About
-            <span class="marked">Myself</span>
+            A propos
+            <span class="marked">De Moi</span>
           </h2>
           <div class="divider"></div>
 
           <div>
             <p>
-              I’m a Junior Front-End Developer located in South Korea. I learn a
-              serious passion for UI effects,animations and creating intuitive,
-              dynamic user experiences.
+              Je suis un Étudiant en développement informatique en deuxième année de BTS SIO à Angers, 
+              je suis passionné par l'informatique.
             </p>
           </div>
 
           <div>
             <p>
-              I'm a well organized person, problem solver, independent employee
+              <!-- I'm a well organized person, problem solver, independent employee
               with high attention to detail. Fan of Football and Boxing, outdoor
               activities with my friends, TV series and English literature.
               Actually, I have been living in South Korea for 5 years, I So i'm
-              also good in Korean.
+              also good in Korean. -->
+
+              Je suis assez curieux dans mon travail et je persévère sur les problèmes que je rencontre. 
+              Je fais aussi du sport, j'aime le football et la musculation. 
+              J'apprécie aussi voyager et découvrir de nouveaux pays
+
+
+
             </p>
           </div>
 
           <div>
             <p class="hidden lg:flex">
-              And I'm interested in the entire creative frontend spectrum and
-              working on ambitious projects with positive people.
+              <!-- And I'm interested in the entire creative frontend spectrum and
+              working on ambitious projects with positive people. -->
             </p>
           </div>
 
@@ -60,8 +66,8 @@
       <div class="row">
         <div class="col-lg-6 p-4 -mt-9 lg:mt-0">
           <h2 class="title-section text-2xl">
-            My
-            <span class="marked">Skills & Experiences</span>
+            Mes
+            <span class="marked">Compétences & Expérience</span>
           </h2>
           <div class="divider"></div>
           <p class="mb-4">
@@ -88,7 +94,7 @@
 
           <router-link to="/blog" class="btn btn-primary">My Blogs</router-link>
           <router-link to="/projects" class="btn btn-outline ml-2">
-            My Projects
+            Mes Projets
           </router-link>
         </div>
         <div class="col-lg-6 py-3 wow zoomIn">
