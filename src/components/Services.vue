@@ -24,11 +24,11 @@
                   class="flex-column items-start py-3 px-2 space-y-1 ml-2"
                   style="padding-bottom: 25px">
                   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-                <img src="https://img.shields.io/badge/CSS-3a8cc7?style=flat&logo=CSS3&logoColor=white%22"/>
-                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-                <img src="https://img.shields.io/badge/VueJS-439A97?style=flat&logo=Vue.js&logoColor=white"/>
-                <img src="https://img.shields.io/badge/Bootstrap-892f99?style=flat&logo=Bootstrap&logoColor=white"/>
-                <img src="https://img.shields.io/badge/TailwindCSS-white?style=flat&logo=TailwindCSS&logoColor=4ca5d9"/>
+                  <img src="https://img.shields.io/badge/CSS-3a8cc7?style=flat&logo=CSS3&logoColor=white%22"/>
+                  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/VueJS-439A97?style=flat&logo=Vue.js&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/Bootstrap-892f99?style=flat&logo=Bootstrap&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/TailwindCSS-white?style=flat&logo=TailwindCSS&logoColor=4ca5d9"/>
                 </div>
               </div>
             </div>

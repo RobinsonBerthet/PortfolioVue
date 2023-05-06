@@ -2,7 +2,7 @@
   <div class="page-section">
     <div class="container">
       <div class="row align-items-center">
-        <div class="col-lg-6 py-3 wow fadeInUp">
+        <!-- <div class="col-lg-6 py-3 wow fadeInUp">
           <h2 class="title-section">Contact information</h2>
           <div class="divider"></div>
           <p>
@@ -25,10 +25,9 @@
               <div class="content"><a href="#">+8210 5818 2222</a></div>
             </li>
           </ul>
-        </div>
+        </div> -->
         <div class="col-lg-6 py-3 wow fadeInUp">
-          <div class="subhead">Contact Me</div>
-          <h2 class="title-section">Get In Touch</h2>
+          <div class="subhead">Contactez Moi</div>
           <div class="divider"></div>
 
           <form action="#">
