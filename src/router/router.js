@@ -23,25 +23,25 @@ const routes = [{
         component: Home,
     },
     {
-        path: "/about",
+        path: "/apropos",
         component: About,
     },
     {
-        path: "/projects",
+        path: "/projets",
         component: Projects,
     },
-    {
-        path: "/blog",
-        component: Blog,
-    },
+    // {
+    //     path: "/blog",
+    //     component: Blog,
+    // },
     {
         path: "/contact",
         component: Contact,
     },
-    {
-        path: "/blogs",
-        component: Allblogs,
-    },
+    // {
+    //     path: "/blogs",
+    //     component: Allblogs,
+    // },
     {
         path: "/singleproject/:id",
         component: SingleProject,

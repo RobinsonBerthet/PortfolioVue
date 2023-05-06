@@ -14,7 +14,7 @@
 
                 <p>the page you are looking for not avaible!</p>
 
-                <router-link to="/" class="link_404">Go to Home</router-link>
+                <router-link to="/" class="link_404">Revenir à l'accueil</router-link>
               </div>
             </div>
           </div>

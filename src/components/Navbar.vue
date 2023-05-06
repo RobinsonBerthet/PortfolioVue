@@ -34,7 +34,7 @@
           </li>
           <li>
             <router-link
-              to="/projects"
+              to="/projets"
               class="flex items-center hover:-mt-1 hover:no-underline p-2 ml-2 text-gray-900 rounded-lg dark:text-white hover:bg-green-100 dark:hover:bg-gray-700"
               aria-current="page">
               <svg
@@ -51,7 +51,7 @@
           </li>
           <li>
             <router-link
-              to="/about"
+              to="/apropos"
               class="flex items-center p-2 ml-2 hover:-mt-1 hover:no-underline text-gray-900 rounded-lg dark:text-white hover:bg-green-100 dark:hover:bg-gray-700"
               aria-current="page">
               <svg

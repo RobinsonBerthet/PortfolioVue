@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-green-50 page-section py-5">
+  <!-- <div class="bg-green-50 page-section py-5">
     <div class="container">
       <div class="text-center wow fadeInUp">
         <div class="mt-2 subhead">Popular Blog</div>
@@ -74,7 +74,7 @@
         </router-link>
       </div>
     </div>
-  </div>
+  </div> -->
 </template>
 
 <script>

@@ -12,11 +12,11 @@
                 <li class="breadcrumb-item">
                   <router-link to="/">Home</router-link>
                 </li>
-                <li class="breadcrumb-item active">Projects</li>
+                <li class="breadcrumb-item active">Projets</li>
               </ul>
             </nav>
             <p class="text-center text-2xl font-semibold text-green-600">
-              MyProject
+              Mes Projets
             </p>
             <div class="divider mx-auto"></div>
           </div>
