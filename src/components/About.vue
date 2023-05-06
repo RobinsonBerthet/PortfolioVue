@@ -50,10 +50,6 @@
               working on ambitious projects with positive people. -->
             </p>
           </div>
-
-          <div class="img-place mb-3"></div>
-          <a href="#" class="btn btn-primary">More Details</a>
-          <a href="#" class="btn btn-outline border ml-2">Success Stories</a>
         </div>
       </div>
     </div>
@@ -92,8 +88,7 @@
             Dapps for both business and consumer use.
           </p>
 
-          <router-link to="/blog" class="btn btn-primary">My Blogs</router-link>
-          <router-link to="/projects" class="btn btn-outline ml-2">
+          <router-link to="/projects" class="btn btn-primary">
             Mes Projets
           </router-link>
         </div>

@@ -13,9 +13,9 @@
                   style="width: 150px; height: 150px"></lord-icon>
               </div>
               <div>
-                <h>Développement d'applications lourdes</h>
+                <h>Front-End</h>
                 <p>
-                  J'ai appris à utiliser le C# pour créer des applications lourdes
+                  HTML, CSS, JavaScript, VueJS
                 </p>
               </div>
             </div>
@@ -34,9 +34,9 @@
                 </div>
               </div>
               <div>
-                <h4>Développement Web</h4>
+                <h4>Back-End</h4>
                 <p>
-                  php, laravel, html css js vuejs
+                  php avec laravel, C# avec Entity Framework
                 </p>
               </div>
             </div>
