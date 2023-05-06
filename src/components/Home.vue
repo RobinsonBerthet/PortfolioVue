@@ -7,11 +7,11 @@
   <div class="bg-green-50 py-5 page-section">
     <div class="container">
       <div class="text-center wow fadeInUp">
-        <div class="text-2xl mb-3">Personality as Developer</div>
-        <h3 class="title-section">
+        <div class="text-2xl mb-3">Qualités en tant que Développeur</div>
+        <!-- <h3 class="title-section">
           <span>"Slow and Steady</span>
           Win The Rase"
-        </h3>
+        </h3> -->
         <div class="divider mx-auto"></div>
       </div>
 
@@ -20,18 +20,20 @@
         <div
           class="bg-white rounded-xl drop-shadow-md mt-3 col-lg-4 ml-2 py-1 px-5 h-96 hover:-mt-3 cursor-default hover:shadow-lg hover:shadow-green-100">
           <lord-icon
-            src="https://cdn.lordicon.com/dfxesbyu.json"
+          src="https://cdn.lordicon.com/hursldrn.json"
             trigger="hover"
             style="width: 150px; height: 150px"
             class="hidden lg:flex"></lord-icon>
 
           <div class="text-2xl font-semibold text-green-800 mt-4 pl-1">
-            Quick Learning
+            Auto-formation
           </div>
           <p class="text-left text-base lg:text-sm leading-relaxed">
-            Best software developers are often fantastic self-learners.The ideal
+            <!-- Best software developers are often fantastic self-learners.The ideal
             skill any person can have is understanding how to learn, and ideal
-            developers have acquired the skill of self-learning.
+            developers have acquired the skill of self-learning. -->
+            L'auto-Formation est une qualité primordiale pour un Développeur car tout au long de sa carrière il doit apprendre de nouvelles choses, 
+            il doit se mettre à jour par rapport aux nouvelles technologies qui sortent quotidiennement.
           </p>
         </div>
 
@@ -44,32 +46,41 @@
             class="hidden lg:flex"></lord-icon>
 
           <div class="text-2xl font-semibold text-green-800 mt-4 pl-1">
-            Problem Solving
+            Persévérance
           </div>
           <p class="text-left text-base lg:text-sm leading-relaxed">
-            Problem-solving is a one of the most important part of the work.
+            <!-- Problem-solving is a one of the most important part of the work.
             Problem-solving also has to do with utilizing creativity and logical
             thought processes to identify problems and resolve them with
-            software.
+            software. -->
+
+            En tant que développeur, la persévérance est une qualité essentielle que je dois cultiver pour atteindre mes objectifs. 
+            Elle ne doit pas être négligée, car sans elle, il est impossible de réaliser ce que l'on souhaite.
           </p>
         </div>
 
         <div
           class="bg-white rounded-xl drop-shadow-md mt-3 col-lg-4 ml-2 py-1 px-5 h-96 hover:-mt-3 cursor-default hover:shadow-lg hover:shadow-green-100">
           <lord-icon
-            src="https://cdn.lordicon.com/hursldrn.json"
-            trigger="morph"
-            style="width: 150px; height: 150px"
-            class="hidden lg:flex"></lord-icon>
+          src="https://cdn.lordicon.com/mjmrmyzg.json"
+          trigger="hover"
+          colors="primary:#4be1ec,secondary:#cb5eee"
+          class="hidden lg:flex"
+          style="width:150px;height:150px">
+          </lord-icon>
 
           <div class="text-2xl font-semibold text-green-800 mt-4 pl-1">
-            Honesty
+            Communication
           </div>
           <p class="text-left text-base lg:text-sm leading-relaxed">
-            Software developers need to learn to admit their mistakes. Of
+            <!-- Software developers need to learn to admit their mistakes. Of
             course, making a mistake occurs to all of us. The most important
             thing to do is to make an effort to learn from them and try to avoid
-            them later in life.
+            them later in life. -->
+
+            La qualité de communication est cruciale dans le métier de développeur, 
+            car elle permet de faciliter la collaboration, 
+            de comprendre les besoins des clients et de transmettre efficacement les idées et les solutions techniques aux membres de l'équipe.
           </p>
         </div>
       </div>

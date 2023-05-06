@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-green-50 hidden lg:flex lg:items-center lg:justify-center">
+  <div class="bg-green-50 lg:flex lg:items-center lg:justify-center">
     <div class="bg-green-50 page-section features">
       <div class="container">
         <div class="row justify-content-center">
@@ -15,7 +15,10 @@
               <div>
                 <h>Front-End</h>
                 <p>
-                  HTML, CSS, JavaScript, VueJS
+                  HTML, CSS, JavaScript, VueJS.
+                </p>
+                <p>
+                  Framework: Bootstrap et TailwindCSS.
                 </p>
                 <div
                   class="flex-column items-start py-3 px-2 space-y-1 ml-2"
@@ -24,6 +27,8 @@
                 <img src="https://img.shields.io/badge/CSS-3a8cc7?style=flat&logo=CSS3&logoColor=white%22"/>
                 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
                 <img src="https://img.shields.io/badge/VueJS-439A97?style=flat&logo=Vue.js&logoColor=white"/>
+                <img src="https://img.shields.io/badge/Bootstrap-892f99?style=flat&logo=Bootstrap&logoColor=white"/>
+                <img src="https://img.shields.io/badge/TailwindCSS-white?style=flat&logo=TailwindCSS&logoColor=4ca5d9"/>
                 </div>
               </div>
             </div>
@@ -44,7 +49,7 @@
               <div>
                 <h4>Back-End</h4>
                 <p>
-                  php avec laravel, C# avec Entity Framework
+                  php avec laravel, C# avec Entity Framework, MySQL
                 </p>      
                 <div
                   class="flex-column items-start py-3 px-2 space-y-1 ml-2"
@@ -53,6 +58,7 @@
                   <img src="https://img.shields.io/badge/Laravel-e35656?style=flat&logo=Laravel&logoColor=white"/>
                   <img src="https://img.shields.io/badge/CSharp-a52cb0?style=flat&logo=CSharp&logoColor=white"/>
                   <img src="https://img.shields.io/badge/Entity%20Framework-375f94?style=flat&logo=EntityFramework&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=blue"/>
                 </div>            
               </div>
             </div>

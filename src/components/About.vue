@@ -63,29 +63,31 @@
         <div class="col-lg-6 p-4 -mt-9 lg:mt-0">
           <h2 class="title-section text-2xl">
             Mes
-            <span class="marked">Compétences & Expérience</span>
+            <span class="marked">Compétences & Expériences</span>
           </h2>
           <div class="divider"></div>
           <p class="mb-4">
-            I graduated from Chonnam National University three months ago with a
-            bachelor’s in Computer Engineering. My experiences in school gave me
-            strong communication and networking skills, which are crucial for
-            event planning.
+            Je suis étudiant en 2ème année de BTS SIO (Services informatiques aux Organisations) option SLAM (Solutions Logicielles et Applications Métiers),
+             au lycée Chevrollier à Angers. 
+            J'ai appris beaucoup de choses en développement informatique mais j'ai aussi des notions de Cybersécurité qui sont extrèmement importantes aujourd'hui.
+
           </p>
           <p class="mb-4">
-            I create successful responsive websites that are fast, easy to use,
-            and built with best practices. The main area of my expertise is
-            front-end development, HTML, CSS, JS, building small and simple web
-            apps,features, animations, and coding interactive. layouts.
+            Grâce au BTS j'ai réalisé beaucoup de projets et j'ai eu une grande pratique dans le domaine du développement. 
+            J'ai réalisé quelques applicatifs notamment en CSharp, et j'ai acquis une expérience en php durant les travaux pratiques. 
+            Pour ce qui est du développement d'applications mobiles,
+            je me suis familiarisé avec les bases de Flutter.
           </p>
 
           <p class="mb-5 hidden lg:flex">
-            I also have experiences with building Nft Smart Contract and
+            <!-- I also have experiences with building Nft Smart Contract and
             Blockchain Solutions as freelancer developer in South Korea. Since
             beginning my journey as a freelance developer nearly 10 months ago,
             I’ve done remote work for agencies, consulted for startups, and
             collaborated with talented people to create Nfts,Smart Contracts and
-            Dapps for both business and consumer use.
+            Dapps for both business and consumer use. -->
+
+            Durant mon BTS j'ai réalisé deux stages, cela m'a permis de découvrir le monde en entreprise, Ces expériences m'ont aidé à gagner en autonomie.
           </p>
 
           <router-link to="/projects" class="btn btn-primary">
