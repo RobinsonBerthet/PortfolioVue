@@ -17,6 +17,14 @@
                 <p>
                   HTML, CSS, JavaScript, VueJS
                 </p>
+                <div
+                  class="flex-column items-start py-3 px-2 space-y-1 ml-2"
+                  style="padding-bottom: 25px">
+                  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+                <img src="https://img.shields.io/badge/CSS-3a8cc7?style=flat&logo=CSS3&logoColor=white%22"/>
+                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+                <img src="https://img.shields.io/badge/VueJS-439A97?style=flat&logo=Vue.js&logoColor=white"/>
+                </div>
               </div>
             </div>
           </div>
@@ -37,7 +45,15 @@
                 <h4>Back-End</h4>
                 <p>
                   php avec laravel, C# avec Entity Framework
-                </p>
+                </p>      
+                <div
+                  class="flex-column items-start py-3 px-2 space-y-1 ml-2"
+                  style="padding-bottom: 25px">
+                  <img src="https://img.shields.io/badge/php-8f58c7?style=flat&logo=php&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/Laravel-e35656?style=flat&logo=Laravel&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/CSharp-a52cb0?style=flat&logo=CSharp&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/Entity%20Framework-375f94?style=flat&logo=EntityFramework&logoColor=white"/>
+                </div>            
               </div>
             </div>
           </div>
@@ -57,6 +73,12 @@
                 <p>
                   Flutter Dart
                 </p>
+                <div
+                  class="flex-column items-start py-3 px-2 space-y-1 ml-2"
+                  style="padding-bottom: 25px">
+                  <img src="https://img.shields.io/badge/Flutter-white?style=flat&logo=Flutter&logoColor=4eb5de"/>
+                  <img src="https://img.shields.io/badge/Dart-white?style=flat&logo=Dart&logoColor=4aa9cf"/>
+                </div>
               </div>
             </div>
           </div>
