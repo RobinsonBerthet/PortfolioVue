@@ -59,7 +59,7 @@ import Navbar from "./Navbar.vue";
 import Footer from "./Footer.vue";
 
 export default {
-  name: "Contact",
+  name: "contact",
 
   components: {
     Navbar: Navbar,

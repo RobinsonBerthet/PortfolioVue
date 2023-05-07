@@ -26,13 +26,11 @@ const routes = [{
     {
         path: "/apropos",
         name:'apropos',
-
         component: About,
     },
     {
         path: "/projets",
         name:'projets',
-
         component: Projects,
     },
     // {
@@ -42,7 +40,6 @@ const routes = [{
     {
         path: "/contact",
         name:'contact',
-
         component: Contact,
     },
     // {
@@ -78,21 +75,17 @@ const routes = [{
 ];
 
 
-export default createRouter({
+
+
+
+const router = createRouter({
     history: createWebHistory(),
-    routes
-  });
-  
+    routes,
+    scrollBehavior(to, from, savedPosition) {
+        return { top: 0 }
+    },
+    linkActiveClass: 'vue-school-active-link',
 
+});
 
-// const router = createRouter({
-//     history: createWebHistory(),
-//     routes,
-//     scrollBehavior(to, from, savedPosition) {
-//         return { top: 0 }
-//     },
-//     linkActiveClass: 'vue-school-active-link',
-
-// });
-
-// export default router;
+export default router;
