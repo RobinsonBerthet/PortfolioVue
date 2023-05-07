@@ -20,14 +20,19 @@ import Upload from "../firebase/Upload.vue";
 
 const routes = [{
         path: "/",
+        name:'Home',
         component: Home,
     },
     {
         path: "/apropos",
+        name:'apropos',
+
         component: About,
     },
     {
         path: "/projets",
+        name:'projets',
+
         component: Projects,
     },
     // {
@@ -36,6 +41,8 @@ const routes = [{
     // },
     {
         path: "/contact",
+        name:'contact',
+
         component: Contact,
     },
     // {
