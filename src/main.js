@@ -41,8 +41,6 @@ import jQuery from "jquery";
 const $ = jQuery;
 window.$ = $;
 
-
-
 const app = createApp(App);
 
 app.use(MotionPlugin);
