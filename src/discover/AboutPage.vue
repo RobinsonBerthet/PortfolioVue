@@ -104,7 +104,7 @@ import Services from "../components/Services";
 import Footer from "../components/Footer";
 
 export default {
-  name: "apropos",
+  name: "About Page",
   data() {
     return {};
   },

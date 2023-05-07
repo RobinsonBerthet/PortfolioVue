@@ -111,7 +111,7 @@ import Services from "../components/Services";
 import Footer from "../components/Footer";
 
 export default {
-  name: "projets",
+  name: "Project Page",
   data() {
     return {
       project: ProjectData,

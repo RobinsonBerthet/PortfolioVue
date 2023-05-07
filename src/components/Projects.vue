@@ -2,7 +2,7 @@
 
 <script>
 export default {
-  name: "projets",
+  name: "Projects",
 };
 </script>
 
