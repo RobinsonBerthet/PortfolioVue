@@ -31,7 +31,7 @@
             <br>
             <a href="https://www.linkedin.com/in/robinson-berthet-846858231/" class="btnLinkedin">
               <img src="/images/linkedin.png" class ="imgLinkedin"/>
-              <p class="flex-1 ml-2 whitespace-nowrap">Linkedinaaaa</p>
+              <p class="flex-1 ml-2 whitespace-nowrap">Linkedin</p>
             </a>
             
               
