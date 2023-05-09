@@ -16,7 +16,7 @@
             </p>
 
             <router-link
-              to="/about"
+              to="/apropos"
               name="fade"
               class="btn btn-outline border text-secondary">
               A propos
