@@ -27,12 +27,6 @@
               Télécharger mon CV
               <div class="fab"><span class="mai-play"></span></div>
             </a>
-            <!-- <div>
-              <img src="/images/linkedin.png" class ="imgLinkedin"/>
-              <a href="https://www.linkedin.com/in/robinson-berthet-846858231/" class="btnLinkedin">
-                Linkedin
-              </a>
-            </div> -->
             <br>
             <br>
             <a href="https://www.linkedin.com/in/robinson-berthet-846858231/" class="btnLinkedin">
