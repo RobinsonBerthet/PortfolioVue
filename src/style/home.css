@@ -2363,6 +2363,7 @@ a.text-dark:focus {
     border-radius: 7px;
     display: flex;
     width: 150px;
+    text-align: center;
 }
 
 .btnLinkedin:hover
