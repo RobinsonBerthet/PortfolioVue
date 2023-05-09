@@ -2370,3 +2370,8 @@ a.text-dark:focus {
 {
     background-color: rgba(5,122,85,0.1);
 }
+
+.btnEnvoyerContact
+{
+    border: 1px solid black;
+}

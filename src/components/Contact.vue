@@ -31,7 +31,7 @@
           <div class="subhead">Contactez Moi</div>
           <div class="divider"></div>
 
-          <form action="#">
+          <form name="contact" method="POST" data-netlify="true">
             <div class="py-2">
               <input type="text" class="form-control" placeholder="Full name" />
             </div>
@@ -44,9 +44,10 @@
                 class="form-control"
                 placeholder="Enter message"></textarea>
             </div>
-            <button type="submit" class="btn btn-primary rounded-pill mt-4">
-              Send Message
-            </button>
+            <div class="py-2">
+              <button type="submit" class="btnEnvoyerContact">Send Message</button>
+            </div>
+
           </form>
         </div>
       </div>
@@ -68,6 +69,28 @@ export default {
     Footer: Footer,
   },
 };
+
+
+  const handleSubmit = (event) => {
+  event.preventDefault();
+  const myForm = event.target;
+  const formData = new FormData(myForm);
+  
+  fetch("/", {
+    method: "POST",
+    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+    body: new URLSearchParams(formData).toString(),
+  })
+    .then(() => console.log("Form successfully submitted"))
+    .catch((error) => alert(error));
+  };
+
+  document
+    .querySelector("form")
+    .addEventListener("submit", handleSubmit);
+
+
+
 </script>
 
 <style></style>
