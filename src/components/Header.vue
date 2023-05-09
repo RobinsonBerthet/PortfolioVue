@@ -34,12 +34,11 @@
               </a>
             </div> -->
             <br>
-            <div href="https://www.linkedin.com/in/robinson-berthet-846858231/"
-              class="flex items-center hover:-mt-1 hover:no-underline bg-green-50 p-2 ml-2 text-gray-900 rounded-lg dark:text-white hover:bg-green-100 dark:hover:bg-gray-700"
-              aria-current="page">
+            <br>
+            <a href="https://www.linkedin.com/in/robinson-berthet-846858231/" class="btnLinkedin">
               <img src="/images/linkedin.png" class ="imgLinkedin"/>
-              <span class="flex-1 ml-2 whitespace-nowrap">Linkedin</span>
-            </div>
+              <p class="flex-1 ml-2 whitespace-nowrap">Linkedin</p>
+            </a>
             
               
 

@@ -2361,4 +2361,11 @@ a.text-dark:focus {
     border: 1px solid rgb(235,235,235);
     padding:15px;
     border-radius: 7px;
+    display: flex;
+    width: 30%;
+}
+
+.btnLinkedin:hover
+{
+    background-color: rgba(5,122,85,0.1);
 }
