@@ -52,6 +52,7 @@
     </div>
     <!-- .container -->
   </div>
+  <Footer :contact="contact" />
 </template>
 
 <script>
