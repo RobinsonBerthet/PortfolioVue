@@ -31,18 +31,18 @@
           <div class="subhead">Contactez Moi</div>
           <div class="divider"></div>
 
-          <form name="contact" method="POST" data-netlify="true">            
+          <form name="contact" method="POST" data-netlify="true" onsubmit="submit">            
             <div class="py-2">
-              <input type="text" class="form-control" placeholder="Full name" />
+              <input type="text" class="form-control" placeholder="Full name" name="name"/>
             </div>
             <div class="py-2">
-              <input type="text" class="form-control" placeholder="Email" />
+              <input type="text" class="form-control" placeholder="Email" name="email"/>
             </div>
             <div class="py-2">
               <textarea
                 rows="6"
                 class="form-control"
-                placeholder="Enter message"></textarea>
+                placeholder="Enter message" name="message"></textarea>
             </div>
             <div class="py-2">
               <button type="submit" class="btnEnvoyerContact">Send Message</button>
