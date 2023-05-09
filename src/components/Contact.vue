@@ -1,4 +1,5 @@
 <template>
+  <Navbar/>
   <div class="page-section">
     <div class="container">
       <div class="row align-items-center">
