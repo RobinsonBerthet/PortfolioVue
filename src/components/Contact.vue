@@ -31,7 +31,7 @@
           <div class="subhead">Contactez Moi</div>
           <div class="divider"></div>
 
-          <form name="contact" netlify netlify-honeypot="bot-field" hidden>
+          <form name="contact" netlify netlify-honeypot="bot-field">
             <div class="py-2">
               <input type="text" class="form-control" placeholder="Full name" />
             </div>
