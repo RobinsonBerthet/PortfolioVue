@@ -90,7 +90,7 @@
             Durant mon BTS j'ai réalisé deux stages, cela m'a permis de découvrir le monde en entreprise, Ces expériences m'ont aidé à gagner en autonomie.
           </p>
 
-          <router-link to="/projects" class="btn btn-primary">
+          <router-link to="/projets" class="btn btn-primary">
             Mes Projets
           </router-link>
         </div>
