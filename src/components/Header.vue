@@ -28,9 +28,8 @@
               <div class="fab"><span class="mai-play"></span></div>
             </a>
             <div>
-              
-              <a href="https://www.linkedin.com/in/robinson-berthet-846858231/" class="btn btn-primary">
-                <img src="src/images/linkedin.png"/>
+              <img src="/images/linkedin.png" class ="imgLinkedin"/>
+              <a href="https://www.linkedin.com/in/robinson-berthet-846858231/" class="btnLinkedin">
                 Linkedin
               </a>
             </div>
