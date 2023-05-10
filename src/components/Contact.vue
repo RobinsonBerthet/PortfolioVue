@@ -34,21 +34,23 @@
           <form name="contact" method="POST" data-netlify="true">  
             <input type="hidden" name="form-name" value="contact">         
             <div class="py-2">
-              <input id="name" type="text" class="form-control" placeholder="Votre Nom" name="name"/>
+              <input id="name" required type="text" class="form-control" placeholder="Votre Nom" name="name"/>
             </div>
             <div class="py-2">
-              <input id="email" type="text" class="form-control" placeholder="Email" name="email"/>
+              <input id="email" required type="text"  class="form-control" placeholder="Email" name="email"/>
             </div>
             <div class="py-2">
               <textarea
                 rows="6"
                 id="message"
                 class="form-control"
+                required
                 placeholder="Entrer un message" name="message"></textarea>
             </div>
             <div class="py-2">
-              <button type="submit" class="btnEnvoyerContact" onclick="return verifEnvoi()">Envoyer</button>
+              <button type="submit" class="btnEnvoyerContact">Envoyer</button>
             </div>
+            <span id="erreur"></span>
           </form>
         </div>
       </div>
@@ -70,22 +72,6 @@ export default {
     Footer: Footer,
   },
 };
-
-
-var nom = document.getElementById("name").value;
-var email = document.getElementById("email").value;
-var message = document.getElementById("message").value;
-
-function verifEnvoi()
-{
-  if(nom=="" || email =="" || message =="")
-  {
-    return false;
-  }
-  return true;
-}
-
-
 
 </script>
 
