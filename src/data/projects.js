@@ -38,7 +38,7 @@ export default [
     content:
       "Applications en ASPX et .NET avec devExpress",
     image:
-      "/images/imgReImpEtiq1.png",
+      "/images/imgReImpEtiq1.PNG",
     tech1:
       "https://img.shields.io/badge/.NET-7286D3?style=flat&logo=.NET&logoColor=white",
     tech2:
@@ -54,26 +54,26 @@ export default [
     content:
       "Application de migration de données en WINDEV",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-2102f.appspot.com/o/dapp.png?alt=media&token=dfb730aa-b94a-4d09-979c-a822257f6e1e",
+      "/images/imgStage2.PNG",
     tech1:
       "https://img.shields.io/badge/WINDEV-363636?style=flat&logo=WINDEV",
     live: "https://reactprime505.web.app/",
     code: "https://github.com/anaskhonprime",
   },
 
-  {
-    name: "ERC721 Smart Contacts",
-    id: 5,
-    content: "ERC721/ERC721A Smart Contract Development, NFT Royalties   ",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-2102f.appspot.com/o/my.png?alt=media&token=c977dd21-dc3a-45c7-a2cc-05635663db41",
-    tech3:
-      "https://img.shields.io/badge/Solidity-363636?style=flat&logo=Solidity&logoColor=white",
-    tech2:
-      "https://img.shields.io/badge/Remix-000000?style=flat&logo=Remix&logoColor=white",
-    tech1:
-      "https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white",
-    live: "https://github.com/anaskhonprime",
-    code: "https://github.com/anaskhonprime",
-  },
+  // {
+  //   name: "ERC721 Smart Contacts",
+  //   id: 5,
+  //   content: "ERC721/ERC721A Smart Contract Development, NFT Royalties   ",
+  //   image:
+  //     "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-2102f.appspot.com/o/my.png?alt=media&token=c977dd21-dc3a-45c7-a2cc-05635663db41",
+  //   tech3:
+  //     "https://img.shields.io/badge/Solidity-363636?style=flat&logo=Solidity&logoColor=white",
+  //   tech2:
+  //     "https://img.shields.io/badge/Remix-000000?style=flat&logo=Remix&logoColor=white",
+  //   tech1:
+  //     "https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white",
+  //   live: "https://github.com/anaskhonprime",
+  //   code: "https://github.com/anaskhonprime",
+  // },
 ];
