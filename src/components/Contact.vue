@@ -31,7 +31,8 @@
           <div class="subhead">Contactez Moi</div>
           <div class="divider"></div>
 
-          <form name="contact" action="/" method="POST" data-netlify="true">            
+          <form name="contact" method="POST" data-netlify="true">  
+            <input type="hidden" name="contact" value="contact" />          
             <div class="py-2">
               <input type="text" class="form-control" placeholder="Votre Nom" name="name"/>
             </div>
