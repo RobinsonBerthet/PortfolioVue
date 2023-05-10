@@ -32,7 +32,7 @@
           <div class="divider"></div>
 
           <form name="contact" method="POST" data-netlify="true">  
-            <input type="hidden" name="contact" value="contact" />          
+            <input type="hidden" name="form-name" value="contact">         
             <div class="py-2">
               <input type="text" class="form-control" placeholder="Votre Nom" name="name"/>
             </div>
