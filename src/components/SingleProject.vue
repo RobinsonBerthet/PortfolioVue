@@ -7,10 +7,10 @@
         <nav aria-label="Breadcrumb">
           <ul class="breadcrumb p-0 mb-0 bg-transparent">
             <li class="breadcrumb-item">
-              <router-link to="/">Home</router-link>
+              <router-link to="/">Accueil</router-link>
             </li>
             <li class="breadcrumb-item">
-              <router-link to="/projects">All Projects</router-link>
+              <router-link to="/projets">Tous mes Projets</router-link>
             </li>
             <li class="breadcrumb-item active">Projects</li>
           </ul>

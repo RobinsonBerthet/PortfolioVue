@@ -27,13 +27,13 @@
             </li>
           </ul>
         </div> -->
-        <div class="col-lg-6 py-3 wow fadeInUp">
+        <div class="">
           <div class="subhead">Contactez Moi</div>
           <div class="divider"></div>
 
-          <form name="contact" method="POST" data-netlify="true" onsubmit="submit">            
+          <form name="contact" method="POST" data-netlify="true">            
             <div class="py-2">
-              <input type="text" class="form-control" placeholder="Full name" name="name"/>
+              <input type="text" class="form-control" placeholder="Nom" name="name"/>
             </div>
             <div class="py-2">
               <input type="text" class="form-control" placeholder="Email" name="email"/>
@@ -42,10 +42,10 @@
               <textarea
                 rows="6"
                 class="form-control"
-                placeholder="Enter message" name="message"></textarea>
+                placeholder="Entrer un message" name="message"></textarea>
             </div>
             <div class="py-2">
-              <button type="submit" class="btnEnvoyerContact">Send Message</button>
+              <button type="submit" class="btnEnvoyerContact">Envoyer</button>
             </div>
 
           </form>

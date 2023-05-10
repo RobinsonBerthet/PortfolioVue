@@ -10,7 +10,7 @@
             <nav aria-label="Breadcrumb">
               <ul class="breadcrumb justify-content-center py-0 bg-transparent">
                 <li class="breadcrumb-item">
-                  <router-link to="/">Home</router-link>
+                  <router-link to="/">Accueil</router-link>
                 </li>
                 <li class="breadcrumb-item active">Projets</li>
               </ul>
@@ -32,12 +32,12 @@
             <div class="card-blog">
               <div class="header">
                 <div class="entry-footer">
-                  <div class="post-author">Welcome to the Projects</div>
+                  <div class="post-author">Bienvenue sur ma page de Projets</div>
                   <a href="#" class="post-date"></a>
                 </div>
               </div>
-              <div class="body">
-                <div class="post-title">
+              <!-- <div class="body">
+                 <div class="post-title">
                   <a>
                     Share My Knowledge
                     <br />
@@ -46,7 +46,7 @@
                     Makes More Employable
                   </a>
                 </div>
-              </div>
+              </div> -->
             </div>
           </div>
 

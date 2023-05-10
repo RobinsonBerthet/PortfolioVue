@@ -2373,5 +2373,13 @@ a.text-dark:focus {
 
 .btnEnvoyerContact
 {
-    border: 1px solid black;
+    border: 1px solid;
+    padding: 7px;
+    border-radius: 5px;
+    color: rgb(5,122,85);
+}
+
+.btnEnvoyerContact:hover
+{
+    box-shadow: 2px 2px 2px 2px rgba(5,122,85, 0.6);
 }

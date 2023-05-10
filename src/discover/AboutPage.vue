@@ -8,12 +8,11 @@
           <nav aria-label="Breadcrumb">
             <ul class="breadcrumb justify-content-center py-0 bg-transparent">
               <li class="breadcrumb-item">
-                <router-link to="/">Home</router-link>
+                <router-link to="/">Accueil</router-link>
               </li>
-              <li class="breadcrumb-item active">About</li>
+              <li class="breadcrumb-item active">A propos</li>
             </ul>
           </nav>
-          <h1 class="text-center">About Us</h1>
         </div>
       </div>
     </div>

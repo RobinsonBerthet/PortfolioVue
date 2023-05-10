@@ -1,70 +1,62 @@
 export default [
   {
-    name: "Personal Portfolio",
+    name: "AP-3 Deuxième année",
     id: 1,
     content:
-      "Personal Portfolio Built with VueJs, Bootstrap & Firebase with SignUp & Login Pages",
+      "Application Web Hackat'Innov en php mvc, html, css et javascript",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-2102f.appspot.com/o/portfolio.png?alt=media&token=a473b7b7-1ca0-4783-a591-ce667cff7c9d",
+      "/images/imgAP3.PNG",
     tech1:
-      "https://img.shields.io/badge/VueJS-439A97?style=flat&logo=Vue.js&logoColor=white",
+      "https://img.shields.io/badge/php-6a39db?style=flat&logo=php&logoColor=white",
     tech2:
-      "https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white",
+      "https://img.shields.io/badge/HTML-ed623b?style=flat&logo=HTML5&logoColor=white",
     tech3:
-      "https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white",
+      "https://img.shields.io/badge/CSS-5781eb?style=flat&logo=CSS3&logoColor=white",
+    tech4:
+      "https://img.shields.io/badge/Javascript-7c92f?style=flat&logo=JavaScript&logoColor=white",
 
     live: "https://personal-portfolio-2102f.web.app/",
     code: "https://github.com/anaskhonprime/personal.github.io",
   },
 
   {
-    name: "Prime Blogs",
+    name: "AP-4 Deuxième année",
     id: 2,
     content:
-      "Simple Blog Web Application built with VueJs, Firebase and Tailwind CSS, Admin Dashboard",
+      "Application de gestion d'un bar restaurant en C# avec Entity Framework",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-2102f.appspot.com/o/blog.png?alt=media&token=7a6e548c-1efe-4451-ac89-3f6a9b310251",
+      "/images/imgAP4.PNG",
     tech1:
-      "https://img.shields.io/badge/VueJS-439A97?style=flat&logo=Vue.js&logoColor=white",
-    tech2:
-      "https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white",
-    tech3:
-      "https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white",
+      "https://img.shields.io/badge/CSharp-439A97?style=flat&logo=CSharp&logoColor=white",
     live: "https://vueblog-13514.web.app/",
     code: "https://github.com/anaskhonprime/prime-blogs",
   },
 
   {
-    name: "ReactJs Based Mobile Dapp ",
+    name: "Stage de première année",
     id: 3,
     content:
-      "Simple Blog Web Application built with VueJs, Firebase and Tailwind CSS, Admin Dashboard",
+      "Applications en ASPX et .NET avec devExpress",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-2102f.appspot.com/o/my%20(1).png?alt=media&token=caa1326b-49b3-412f-a461-059829caf91b",
+      "/images/imgReImpEtiq1.png",
     tech1:
-      "https://img.shields.io/badge/ReactJs-7286D3?style=flat&logo=ReactJs&logoColor=green",
+      "https://img.shields.io/badge/.NET-7286D3?style=flat&logo=.NET&logoColor=white",
     tech2:
-      "https://img.shields.io/badge/TailwindCSS-A084DC?style=flat&logo=TailwindCSS&logoColor=white",
-    tech3:
-      "https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white",
+      "https://img.shields.io/badge/ASPX-A084DC?style=flat",
 
     live: "https://vueblog-13514.web.app/",
     code: "https://github.com/anaskhonprime/react-eth-mint-dapp",
   },
 
   {
-    name: "Ethereum Dapp",
+    name: "Stage de deuxième année",
     id: 4,
     content:
-      "Ethereum Mainnet Minting App Development, BeyondFood Nft Public Sales",
+      "Application de migration de données en WINDEV",
     image:
       "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-2102f.appspot.com/o/dapp.png?alt=media&token=dfb730aa-b94a-4d09-979c-a822257f6e1e",
     tech1:
-      "https://img.shields.io/badge/Solidity-363636?style=flat&logo=Solidity&logoColor=white",
-    tech2:
-      "https://img.shields.io/badge/Remix-000000?style=flat&logo=Remix&logoColor=white",
-    tech3:
-      "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white",
+      "https://img.shields.io/badge/WINDEV-363636?style=flat&logo=WINDEV",
     live: "https://reactprime505.web.app/",
     code: "https://github.com/anaskhonprime",
   },
