@@ -37,7 +37,7 @@
         <div
           class="bg-white rounded-xl drop-shadow-md mt-3 col-lg-4 ml-2 py-1 px-5 h-96 hover:-mt-3 cursor-default hover:shadow-lg hover:shadow-green-100">
           <lord-icon
-            src="https://cdn.lordicon.com/dfxesbyu.json"
+            src="https://cdn.lordicon.com/hursldrn.json"
             trigger="hover"
             style="width: 150px; height: 150px"
             class="hidden lg:flex"></lord-icon>
@@ -71,7 +71,7 @@
         <div
           class="bg-white rounded-xl drop-shadow-md mt-3 col-lg-4 ml-2 py-1 px-5 h-96 hover:-mt-3 cursor-default hover:shadow-lg hover:shadow-green-100">
           <lord-icon
-            src="https://cdn.lordicon.com/hursldrn.json"
+            src="https://cdn.lordicon.com/mjmrmyzg.json"
             trigger="morph"
             style="width: 150px; height: 150px"
             class="hidden lg:flex"></lord-icon>
