@@ -48,10 +48,7 @@
                 placeholder="Entrer un message" name="message"></textarea>
             </div>
             <div class="py-2">
-              <router-link
-              to="/contact/envoye">
               <button type="submit" onclick="" class="btnEnvoyerContact">Envoyer</button>
-            </router-link>
             </div>
             <span id="erreur"></span>
           </form>
