@@ -40,7 +40,7 @@ const routes = [{
         component: Contact,
     },
     {
-        path: "/contact/envoye",
+        path: "/envoye",
         component: Envoye,
     },
     // {
