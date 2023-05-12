@@ -31,7 +31,7 @@
           <div class="subhead">Contactez Moi</div>
           <div class="divider"></div>
 
-          <form name="contact" method="POST" data-netlify="true">  
+          <form name="contact" action="contact/envoye" method="POST" data-netlify="true">  
             <input type="hidden" name="form-name" value="contact">         
             <div class="py-2">
               <input id="name" required type="text" class="form-control" placeholder="Votre Nom" name="name"/>
@@ -48,7 +48,7 @@
                 placeholder="Entrer un message" name="message"></textarea>
             </div>
             <div class="py-2">
-              <button type="submit" onclick="" class="btnEnvoyerContact">Envoyer</button>
+              <button type="submit" class="btnEnvoyerContact">Envoyer</button>
             </div>
             <span id="erreur"></span>
           </form>
