@@ -31,7 +31,7 @@
           <div class="subhead">Contactez Moi</div>
           <div class="divider"></div>
 
-          <form name="contact" method="POST" data-netlify="true">  
+          <form name="contact" action="/MessageEnvoye.vue" method="POST" data-netlify="true">  
             <input type="hidden" name="form-name" value="contact">         
             <div class="py-2">
               <input id="name" required type="text" class="form-control" placeholder="Votre Nom" name="name"/>
