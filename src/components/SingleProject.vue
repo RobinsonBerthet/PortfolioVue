@@ -38,10 +38,10 @@
                   </a>
                   <br />
                   <br />
-
                   <p class="margin-top: 20px;">
                     {{ project[$route.params.id].content1 }}
                   </p>
+
 
                   <p class="margin-top: 20px;">
                     {{ project[$route.params.id].content2 }}
@@ -50,7 +50,7 @@
                   <p class="margin-top: 20px;">
                     {{ project[$route.params.id].content3 }}
                   </p>
-
+<!-- 
                   <div class="text-center mt-5">
                     <button class="btn btn-primary">
                       <a
@@ -59,7 +59,7 @@
                         READ MORE
                       </a>
                     </button>
-                  </div>
+                  </div> -->
                 </div>
               </div>
 
@@ -69,7 +69,7 @@
           <div class="col-lg-4">
             <div class="widget">
               <!-- Widget search -->
-              <div class="widget-box">
+              <!-- <div class="widget-box">
                 <form action="#" class="search-widget">
                   <input
                     type="text"
@@ -79,21 +79,22 @@
                     Search
                   </button>
                 </form>
-              </div>
+              </div> -->
 
               <!-- Widget Categories -->
               <div class="widget-box">
-                <h4 class="widget-title">Tech</h4>
+                <h4 class="widget-title">Technologies</h4>
                 <div class="divider"></div>
 
                 <ul class="categories">
                   <img :src="project[$route.params.id].tech1" />
                   <img :src="project[$route.params.id].tech2" />
                   <img :src="project[$route.params.id].tech3" />
+                  <img :src="project[$route.params.id].tech4" />
                   <br />
-
+<!-- 
                   <li><a>FrontEnd</a></li>
-                  <li><a>Web Application</a></li>
+                  <li><a>Web Application</a></li> -->
                 </ul>
               </div>
 

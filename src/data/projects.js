@@ -6,6 +6,8 @@ export default [
       "Application Web Hackat'Innov en php mvc, html, css et javascript",
     image:
       "/images/imgAP3.png",
+    imageAP3_1:
+      "/images/imgAP3_participants.png",
     tech1:
       "https://img.shields.io/badge/php-6a39db?style=flat&logo=php&logoColor=white",
     tech2:
@@ -14,6 +16,9 @@ export default [
       "https://img.shields.io/badge/CSS-5781eb?style=flat&logo=CSS3&logoColor=white",
     tech4 :
       "https://img.shields.io/badge/Javascript-ffff00?style=flat&logo=JavaScript&logoColor=black",
+    content1:
+      "Voici le projet que j'ai réalisé lors du début de ma deuxième année de BTS SIO, c\' est une application web qui était déja créée, je devais y apporter quelques évolutions."
+
 
     // live: "https://personal-portfolio-2102f.web.app/",
     // code: "https://github.com/anaskhonprime/personal.github.io",
