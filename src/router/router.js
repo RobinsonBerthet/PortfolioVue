@@ -43,7 +43,7 @@ const routes = [{
     //     component: Allblogs,
     // },
     {
-        path: "/singleproject/:id",
+        path: "/projDetail/:id",
         component: SingleProject,
     },
     // {

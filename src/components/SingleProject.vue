@@ -12,7 +12,7 @@
             <li class="breadcrumb-item">
               <router-link to="/projets">Tous mes Projets</router-link>
             </li>
-            <li class="breadcrumb-item active">Projects</li>
+            <li class="breadcrumb-item active">{{project[$route.params.id].name}}</li>
           </ul>
         </nav>
 
@@ -106,7 +106,7 @@
                   v-for="(a, i) in 4"
                   :key="a"
                   class="blog-item"
-                  @click="$router.push(`/singleproject/` + i)">
+                  @click="$router.push(`/projDetail/` + i)">
                   <a class="post-thumb" href="">
                     <img :src="project[i].image" />
                   </a>

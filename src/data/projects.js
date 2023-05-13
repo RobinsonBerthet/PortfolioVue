@@ -1,6 +1,6 @@
 export default [
   {
-    name: "AP-3 Deuxième année",
+    name: "AP-3 Deuxième année BTS SIO",
     id: 1,
     content:
       "Application Web Hackat'Innov en php mvc, html, css et javascript",
@@ -12,15 +12,15 @@ export default [
       "https://img.shields.io/badge/HTML-ed623b?style=flat&logo=HTML5&logoColor=white",
     tech3:
       "https://img.shields.io/badge/CSS-5781eb?style=flat&logo=CSS3&logoColor=white",
-    tech4:
-      "https://img.shields.io/badge/Javascript-7c92f?style=flat&logo=JavaScript&logoColor=white",
+    tech4 :
+      "https://img.shields.io/badge/Javascript-ffff00?style=flat&logo=JavaScript&logoColor=black",
 
-    live: "https://personal-portfolio-2102f.web.app/",
-    code: "https://github.com/anaskhonprime/personal.github.io",
+    // live: "https://personal-portfolio-2102f.web.app/",
+    // code: "https://github.com/anaskhonprime/personal.github.io",
   },
 
   {
-    name: "AP-4 Deuxième année",
+    name: "AP-4 Deuxième année BTS SIO",
     id: 2,
     content:
       "Application de gestion d'un bar restaurant en C# avec Entity Framework",
@@ -28,12 +28,12 @@ export default [
       "/images/imgAP4.png",
     tech1:
       "https://img.shields.io/badge/CSharp-439A97?style=flat&logo=CSharp&logoColor=white",
-    live: "https://vueblog-13514.web.app/",
-    code: "https://github.com/anaskhonprime/prime-blogs",
+    // live: "https://vueblog-13514.web.app/",
+    // code: "https://github.com/anaskhonprime/prime-blogs",
   },
 
   {
-    name: "Stage de première année",
+    name: "Stage de première année BTS SIO",
     id: 3,
     content:
       "Applications en ASPX et .NET avec devExpress",
@@ -44,12 +44,12 @@ export default [
     tech2:
       "https://img.shields.io/badge/ASPX-A084DC?style=flat",
 
-    live: "https://vueblog-13514.web.app/",
-    code: "https://github.com/anaskhonprime/react-eth-mint-dapp",
+    // live: "https://vueblog-13514.web.app/",
+    // code: "https://github.com/anaskhonprime/react-eth-mint-dapp",
   },
 
   {
-    name: "Stage de deuxième année",
+    name: "Stage de deuxième année BTS SIO",
     id: 4,
     content:
       "Application de migration de données en WINDEV",
@@ -57,8 +57,8 @@ export default [
       "/images/imgStage2.png",
     tech1:
       "https://img.shields.io/badge/WINDEV-363636?style=flat&logo=WINDEV",
-    live: "https://reactprime505.web.app/",
-    code: "https://github.com/anaskhonprime",
+    // live: "https://reactprime505.web.app/",
+    // code: "https://github.com/anaskhonprime",
   },
 
   // {
