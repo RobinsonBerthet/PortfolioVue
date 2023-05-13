@@ -46,22 +46,22 @@ const routes = [{
         path: "/singleproject/:id",
         component: SingleProject,
     },
-    {
-        path: "/login",
-        component: Login,
-    },
-    {
-        path: "/signup",
-        component: Signup,
-    },
-    {
-        path: "/dashboard",
-        component: Dashboard,
-    },
-    {
-        path: "/upload",
-        component: Upload,
-    },
+    // {
+    //     path: "/login",
+    //     component: Login,
+    // },
+    // {
+    //     path: "/signup",
+    //     component: Signup,
+    // },
+    // {
+    //     path: "/dashboard",
+    //     component: Dashboard,
+    // },
+    // {
+    //     path: "/upload",
+    //     component: Upload,
+    // },
 
     {
         path: '/:catchAll(.*)*',

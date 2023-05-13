@@ -5,7 +5,7 @@ export default [
     content:
       "Application Web Hackat'Innov en php mvc, html, css et javascript",
     image:
-      "/images/imgAP3.PNG",
+      "/images/imgAP3.png",
     tech1:
       "https://img.shields.io/badge/php-6a39db?style=flat&logo=php&logoColor=white",
     tech2:
@@ -25,7 +25,7 @@ export default [
     content:
       "Application de gestion d'un bar restaurant en C# avec Entity Framework",
     image:
-      "/images/imgAP4.PNG",
+      "/images/imgAP4.png",
     tech1:
       "https://img.shields.io/badge/CSharp-439A97?style=flat&logo=CSharp&logoColor=white",
     live: "https://vueblog-13514.web.app/",
@@ -38,7 +38,7 @@ export default [
     content:
       "Applications en ASPX et .NET avec devExpress",
     image:
-      "/images/imgReImpEtiq1.PNG",
+      "/images/imgReImpEtiq1.png",
     tech1:
       "https://img.shields.io/badge/.NET-7286D3?style=flat&logo=.NET&logoColor=white",
     tech2:
@@ -54,7 +54,7 @@ export default [
     content:
       "Application de migration de données en WINDEV",
     image:
-      "/images/imgStage2.PNG",
+      "/images/imgStage2.png",
     tech1:
       "https://img.shields.io/badge/WINDEV-363636?style=flat&logo=WINDEV",
     live: "https://reactprime505.web.app/",

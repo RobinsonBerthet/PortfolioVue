@@ -37,7 +37,7 @@
               <img
                 class="google-icon mx-2"
                 href="#"
-                src="../images/google.png"
+                src="../../public/images/google.png"
                 alt="Image alt"
                 style="width: 25px; height: 25px"
               />
