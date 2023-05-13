@@ -5,7 +5,6 @@ import About from '../discover/AboutPage.vue';
 import Projects from '../discover/ProjectPage.vue';
 import Blog from '../discover/BlogPage.vue';
 import Contact from '../components/Contact.vue';
-import Envoye from '../components/MessageEnvoye.vue';
 import Allblogs from '../components/Allblogs.vue';
 import SingleProject from "../components/SingleProject.vue";
 
@@ -38,10 +37,6 @@ const routes = [{
     {
         path: "/contact",
         component: Contact,
-    },
-    {
-        path: "/envoye",
-        component: Envoye,
     },
     // {
     //     path: "/blogs",
