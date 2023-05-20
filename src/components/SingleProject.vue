@@ -33,7 +33,19 @@
                   <span class="icon" style="margin-right: 10px">
                     <span class="mai-time-outline"></span>
                   </span>
-                  <a class="font-size: 20px;">
+                  <div v-if="project[$route.params.id].id == 1">
+                    <AP3 />
+                  </div>
+                  <div v-if="project[$route.params.id].id == 2">
+                    <AP4 />
+                  </div>
+                  <div v-if="project[$route.params.id].id == 3">
+                    <Stage1 />
+                  </div>
+                  <div v-if="project[$route.params.id].id == 4">
+                    <Stage2 />
+                  </div>
+                  <!-- <a class="font-size: 20px;">
                     {{ project[$route.params.id].content }}
                   </a>
                   <br />
@@ -42,6 +54,7 @@
                     {{ project[$route.params.id].content1 }}
                   </p>
 
+                  
 
                   <p class="margin-top: 20px;">
                     {{ project[$route.params.id].content2 }}
@@ -49,7 +62,7 @@
 
                   <p class="margin-top: 20px;">
                     {{ project[$route.params.id].content3 }}
-                  </p>
+                  </p> -->
 <!-- 
                   <div class="text-center mt-5">
                     <button class="btn btn-primary">
@@ -138,6 +151,13 @@
 import ProjectData from "../data/projects.js";
 import Navbar from "./Navbar.vue";
 import Footer from "./Footer.vue";
+import AP3 from "./projets/AP3.vue";
+import AP4 from "./projets/AP4.vue";
+import Stage1 from "./projets/Stage1.vue";
+import Stage2 from "./projets/Stage2.vue";
+
+
+
 
 export default {
   name: "Single Project Page",
@@ -152,7 +172,11 @@ export default {
   components: {
     Navbar,
     Footer,
-  },
+    AP3,
+    AP4,
+    Stage1,
+    Stage2
+},
 };
 </script>
 
