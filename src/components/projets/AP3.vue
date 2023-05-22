@@ -15,16 +15,28 @@
             Gestion de documents statistiques en aide aux administrateurs;
         </p>
         <br>
-        <div class="flex">
+        <div class="flex flex-col lg:flex-row items-center">
             <img class="imgPart" src="..\..\..\public\images\img_participants.png"/>
             <p>Consultation des membres de chaque équipe quand on est connecté en tant qu’équipe</p>
         </div>
         <br>
         <hr>
         <br>
-        <div class="flex">
+        <div class="flex flex-col lg:flex-row items-center">
             <img class="imgPart" src="..\..\..\public\images\imgCGU.png"/>
             <p>Page à Propos avec des CGU basiques</p>
+        </div>
+        <br>
+        <hr>
+        <br>
+        <div class="flex flex-col lg:flex-row items-center">
+            <img class="imgPart" src="..\..\..\public\images\pageconnexion.png"/>
+            <p>Accès sécurisé au menu API en Admin</p>
+        </div>
+        <br>
+        <div class="flex flex-col lg:flex-row items-center">
+            <img class="imgPart" src="..\..\..\public\images\pageaccueil.png"/>
+            <p>Une Fois connecté en tant qu’Admin</p>
         </div>
     </div>
 </template>
