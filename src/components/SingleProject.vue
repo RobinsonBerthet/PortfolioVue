@@ -113,7 +113,7 @@
 
               <!-- Widget recent post -->
               <div class="widget-box">
-                <h4 class="widget-title">Next Projects</h4>
+                <h4 class="widget-title">Autres Projets</h4>
                 <div class="divider"></div>
 
                 <div

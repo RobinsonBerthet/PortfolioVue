@@ -87,13 +87,19 @@
         <h3 class="text-center">Gestion du Personnel</h3>
         <br>
         <div class="flex flex-col lg:flex-row items-center">
-            <img class="imgAP4" src="..\..\..\public\images\pdf.png"/>
+            <img class="imgAP4" src="..\..\..\public\images\personnel.png"/>
             <p>
-               Voici le pdf généré après l'appui sur le bouton imprimer. 
+                Voici la page qui permet la gestion du personnel (soit dirigeant, cuisinier ou serveur). 
+                L'utilisateur peut modifier ajouter ou supprimer un membre du personnel du bar-restaurant.
             </p>
         </div>
-
-
+        <br>
+        <div class="flex flex-col lg:flex-row items-center">
+            <img class="imgAP4" src="..\..\..\public\images\modifPerso.png"/>
+            <p>
+                Cette pop-up permet l'ajout et la modification d'un membre du personnel.
+            </p>
+        </div>
 
     </div>
 </template>

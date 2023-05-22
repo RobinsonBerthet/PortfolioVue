@@ -2393,3 +2393,10 @@ a.text-dark:focus {
 {
     width: 500px; 
 }
+
+.imgStag1
+{
+    width: 450px;
+    margin: 5px;
+    border: 1px solid rgb(220, 220, 220);
+}
