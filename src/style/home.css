@@ -2383,3 +2383,8 @@ a.text-dark:focus {
 {
     box-shadow: 2px 2px 2px 2px rgba(5,122,85, 0.6);
 }
+
+.imgPart
+{
+    width: 350px;
+}
