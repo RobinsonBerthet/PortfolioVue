@@ -7,7 +7,7 @@ export default [
     image:
       "/images/imgAP3.png",
     tech1:
-      "https://img.shields.io/badge/php-6a39db?style=flat&logo=php&logoColor=white",
+      "https://img.shields.io/badge/php-787cb4?style=flat&logo=php&logoColor=white",
     tech2:
       "https://img.shields.io/badge/HTML-ed623b?style=flat&logo=HTML5&logoColor=white",
     tech3:
@@ -29,7 +29,13 @@ export default [
     image:
       "/images/imgAP4.png",
     tech1:
-      "https://img.shields.io/badge/CSharp-439A97?style=flat&logo=CSharp&logoColor=white",
+      "https://img.shields.io/badge/CSharp-9a4993?style=flat&logo=CSharp&logoColor=white",
+    
+    tech2:
+      "https://img.shields.io/badge/Entity Framework-1172a7?style=flat",
+
+
+      
     // live: "https://vueblog-13514.web.app/",
     // code: "https://github.com/anaskhonprime/prime-blogs",
   },

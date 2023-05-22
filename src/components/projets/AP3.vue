@@ -51,7 +51,7 @@
             <img class="imgPart" src="..\..\..\public\images\profilEquipe.png" />
             <p>
                 Une Fois connecté en tant qu’Équipe l'utilisateur peut se déconnecter,
-                se désincrire de l'hackathon en cours.
+                se désincrire de l'hackathon en cours(possible réinscription à l'accueil si il reste des places).
                 Il peut aussi modifier le profil de son équipe, supprimer/ajouter des membres.
             </p>
         </div>
