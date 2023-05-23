@@ -1,5 +1,5 @@
 <template>
-        <div class="widget-box">
+    <div class="widget-box">
         <h3>Projet de Stage de 1ère année de BTS</h3>
         <p>
             J'ai crée cette application durant mon stage de 1ère année de BTS. Le but était que les utilisateurs puissent réimprimer leurs étiquettes produits.
