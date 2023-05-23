@@ -21,12 +21,12 @@
               class="btn btn-outline border text-secondary">
               A propos
             </router-link>
-            <a
+            <!-- <a
               href="#"
               class="btn btn-primary btn-split ml-2">
               Télécharger mon CV
               <div class="fab"><span class="mai-play"></span></div>
-            </a>
+            </a> -->
             <br>
             <br>
             <a href="https://www.linkedin.com/in/robinson-berthet-846858231/" class="btnLinkedin">

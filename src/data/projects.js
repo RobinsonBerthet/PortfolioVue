@@ -68,6 +68,18 @@ export default [
     // live: "https://reactprime505.web.app/",
     // code: "https://github.com/anaskhonprime",
   },
+  {
+    name: "Stage de deuxième année BTS SIO",
+    id: 5,
+    content:
+      "Gestion des signatures via l'API de Yousign",
+    image:
+      "/images/yousign.png",
+    tech1:
+      "https://img.shields.io/badge/WINDEV-363636?style=flat&logo=WINDEV",
+    // live: "https://reactprime505.web.app/",
+    // code: "https://github.com/anaskhonprime",
+  },
 
   // {
   //   name: "ERC721 Smart Contacts",

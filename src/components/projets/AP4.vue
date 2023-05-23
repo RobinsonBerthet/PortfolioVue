@@ -4,6 +4,7 @@
         <p>
             Cette application a été réalisée dans le but de gérer un bar-restaurant.
             Elle a été réalisée entièrement avec une base de données commune utilisée par un site web du restaurant et une application mobile.
+            Grâce à cette application j'ai pu améliorer mes compétences avec github pour versionner et sauvegarder tout le code.
             
         </p>
         <br>
@@ -16,6 +17,13 @@
             Il peut désactiver ou réactiver un client pour un motif précis.
             Enfin l'utilisateur connecté peut consulter les chiffres du restaurant (nombres de commandes sur-place/à emporter par an/mois, chiffre d'affaire annuel).
         </p>
+        <br>
+        <div class="flex flex-col lg:flex-row items-center">
+            <img class="imgAP4" src="..\..\..\public\images\tableauAP4.jpg" />
+            <p>Nous avons utilisé la méthode AGILE Scrum afin de mener à bien notre projet. 
+                Chacun était attribué à une couleur en fonction de l'application qu'il effectuait, 
+                ce task board nous à permis de nous rendre compte de notre avancement dans le projet.</p>
+        </div>
         <br>
         <hr>
         <br>
