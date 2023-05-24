@@ -7,6 +7,8 @@ import Blog from '../discover/BlogPage.vue';
 import Contact from '../components/Contact.vue';
 import Allblogs from '../components/Allblogs.vue';
 import SingleProject from "../components/SingleProject.vue";
+import userStory from "../components/projets/userStory.vue";
+
 
 import PageNotFound from "../components/PageNotFound.vue";
 
@@ -45,6 +47,10 @@ const routes = [{
     {
         path: "/projDetail/:id",
         component: SingleProject,
+    },
+    {
+        path: "/userStory",
+        component: userStory,
     },
     // {
     //     path: "/login",

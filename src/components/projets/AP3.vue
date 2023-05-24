@@ -17,6 +17,15 @@
         </p>
         <br>
         <div class="flex flex-col lg:flex-row items-center">
+            <img class="imgPart imgUser" src="..\..\..\public\images\userStory.png" />
+            <p>User Stories données pour la réalisation des évolutions du site.</p>
+            
+        </div>
+        <a href="/userStory">voir plus</a>
+        <br>
+        <hr>
+        <br>
+        <div class="flex flex-col lg:flex-row items-center">
             <img class="imgPart" src="..\..\..\public\images\img_participants.png" />
             <p>Consultation des membres de chaque équipe quand on est connecté en tant qu’équipe</p>
         </div>
