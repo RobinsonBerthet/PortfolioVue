@@ -14,10 +14,10 @@
             J'ai alors recrée l'application afin de corriger ce problème et d'optimiser un maximum le code pour qu'il soit plus maintenable et performant.
         </p>
         <br>
-        <div class="flex lg:flex-row space-x-4">
+        <div class="flex flex-col lg:flex-row items-center space-x-4 space-y-4">
             <img class="imgPart imgUser" src="..\..\..\public\images\dispoSamu2.jpg" />
+            <img class="imgPart" src="..\..\..\public\images\dispoSamu3.jpg" />
             
-            <img class="imgPart" src="..\..\..\public\images\dispoSamu3.jpg" />            
         </div>
         <br>
 
