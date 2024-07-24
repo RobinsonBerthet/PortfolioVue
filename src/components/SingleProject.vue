@@ -33,22 +33,23 @@
                   <span class="icon" style="margin-right: 10px">
                     <span class="mai-time-outline"></span>
                   </span>
-                  <div v-if="project[$route.params.id].id == 1">
+                  <div v-if="project[$route.params.id].id == 5">
                     <AP3 />
                   </div>
-                  <div v-if="project[$route.params.id].id == 2">
+                  <div v-if="project[$route.params.id].id == 4">
                     <AP4 />
                   </div>
-                  <div v-if="project[$route.params.id].id == 3">
+                  <div v-if="project[$route.params.id].id == 6">
                     <Stage1 />
                   </div>
-                  <div v-if="project[$route.params.id].id == 4">
+                  <div v-if="project[$route.params.id].id == 3">
                     <Stage2 />
                   </div>
-                  <div v-if="project[$route.params.id].id == 5">
+                  <div v-if="project[$route.params.id].id == 2">
                     <Stage2_2 />
                   </div>
-                  <div v-if="project[$route.params.id].id == 6">
+                  <div v-if="project[$route.params.id].id == 1">
+                    
                     <alternance />
                   </div>
                   <!-- <a class="font-size: 20px;">
@@ -165,12 +166,10 @@ import Stage2_2 from "./projets/Stage2-2.vue";
 import alternance from "./projets/alternance.vue";
 
 
-
-
-
 export default {
   name: "Single Project Page",
   data() {
+
     return {
       project: ProjectData,
     };
