@@ -54,8 +54,7 @@
             thought processes to identify problems and resolve them with
             software. -->
 
-            En tant que développeur, la persévérance est une qualité essentielle que je dois cultiver pour atteindre mes objectifs. 
-            Elle ne doit pas être négligée, car sans elle, il est impossible de réaliser ce que l'on souhaite.
+            Pour un développeur, la persévérance est une qualité indispensable à cultiver pour atteindre ses objectifs. Elle est cruciale et ne doit pas être négligée, car sans elle, il est impossible de concrétiser ses aspirations.
           </p>
         </div>
 

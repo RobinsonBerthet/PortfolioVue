@@ -48,6 +48,9 @@
                   <div v-if="project[$route.params.id].id == 5">
                     <Stage2_2 />
                   </div>
+                  <div v-if="project[$route.params.id].id == 6">
+                    <alternance />
+                  </div>
                   <!-- <a class="font-size: 20px;">
                     {{ project[$route.params.id].content }}
                   </a>
@@ -159,6 +162,7 @@ import AP4 from "./projets/AP4.vue";
 import Stage1 from "./projets/Stage1.vue";
 import Stage2 from "./projets/Stage2.vue";
 import Stage2_2 from "./projets/Stage2-2.vue";
+import alternance from "./projets/alternance.vue";
 
 
 
@@ -181,7 +185,8 @@ export default {
     AP4,
     Stage1,
     Stage2,
-    Stage2_2
+    Stage2_2,
+    alternance
 },
 };
 </script>

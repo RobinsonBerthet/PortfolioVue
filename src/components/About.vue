@@ -22,8 +22,8 @@
 
           <div>
             <p>
-              Je suis un Étudiant en développement informatique en deuxième année de BTS SIO à Angers, 
-              je suis passionné par l'informatique.
+              Je suis un Étudiant en développement informatique en Licence Professionnelle | Métiers de l’informatique : applications web à la faculté des Sciences d'Angers. 
+              Depuis la classe de première et grâce à la spécialité NSI (Numérique et Science Informatique) je me suis petit à petit intéressé à l'informatique et plus particulièrement au développement, cette passion s'est ensuite développée durant l'enseignement supérieur pendant mon BTS SIO jusqu'à cette année.
             </p>
           </div>
 
@@ -36,8 +36,8 @@
               also good in Korean. -->
 
               Je suis assez curieux dans mon travail et je persévère sur les problèmes que je rencontre. 
-              Je fais aussi du sport, j'aime le football et la musculation. 
-              J'apprécie aussi voyager et découvrir de nouveaux pays
+              Mes passe temps sont le sport notamment la musculation et la course à pieds. 
+              J'apprécie aussi voyager et découvrir de nouveaux pays.
 
 
 
@@ -67,16 +67,22 @@
           </h2>
           <div class="divider"></div>
           <p class="mb-4">
-            Je suis étudiant en 2ème année de BTS SIO (Services informatiques aux Organisations) option SLAM (Solutions Logicielles et Applications Métiers),
-             au lycée Chevrollier à Angers. 
-            J'ai appris beaucoup de choses en développement informatique mais j'ai aussi des notions de Cybersécurité qui sont extrèmement importantes aujourd'hui.
+
+            Depuis la classe de première j'ai pu développer des compétences en informatique en ciblant plus le développement web, logiciel et applicatif avec le BTS SIO option SLAM (Solutions Logicielles et Applications Métiers), j'ai aussi acquis des notions importantes en réseau.
 
           </p>
           <p class="mb-4">
-            Grâce au BTS j'ai réalisé beaucoup de projets et j'ai eu une grande pratique dans le domaine du développement. 
-            J'ai réalisé quelques applicatifs notamment en CSharp, et j'ai acquis une expérience en php durant les travaux pratiques. 
-            Pour ce qui est du développement d'applications mobiles,
-            je me suis familiarisé avec les bases de Flutter.
+            Grâce au BTS et à la licence professionnelle j'ai réalisé beaucoup de projets et j'ai eu une bonne pratique dans le domaine du développement web. 
+            J'ai aussi réalisé quelques applicatifs notamment en CSharp.
+            
+          </p>
+
+          <p class="mb-4">
+            Le BTS SIO et la licence professionnelle m'ont permis d'acquérir une expérience en entreprise grâce aux stages réalisés en première et deuxième année de BTS. De plus, 
+            je suis actuellement en licence professionnelle en alternance, ce qui m'apporte beaucoup, 
+            tant au niveau du développement de mon autonomie, de l'apprentissage des langages de programmation, 
+            que des compétences relationnelles acquises lors des réunions.
+            
           </p>
 
           <p class="mb-5 hidden lg:flex">
@@ -87,7 +93,7 @@
             collaborated with talented people to create Nfts,Smart Contracts and
             Dapps for both business and consumer use. -->
 
-            Durant mon BTS j'ai réalisé deux stages, cela m'a permis de découvrir le monde en entreprise, Ces expériences m'ont aidé à gagner en autonomie.
+            <!-- Durant mon BTS j'ai réalisé deux stages, cela m'a permis de découvrir le monde en entreprise, Ces expériences m'ont aidé à gagner en autonomie. -->
           </p>
 
           <router-link to="/projets" class="btn btn-primary">

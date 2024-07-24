@@ -108,6 +108,8 @@ import Navbar from "../components/Navbar";
 import Services from "../components/Services";
 import Footer from "../components/Footer";
 
+ProjectData.sort((a, b) => a.id - b.id);
+
 export default {
   name: "Project Page",
   data() {
@@ -121,6 +123,8 @@ export default {
   },
 
   components: { Navbar, Services, Footer },
+
+
 };
 </script>
 

@@ -59,6 +59,7 @@
                   <img src="https://img.shields.io/badge/CSharp-a52cb0?style=flat&logo=CSharp&logoColor=white"/>
                   <img src="https://img.shields.io/badge/Entity%20Framework-375f94?style=flat&logo=EntityFramework&logoColor=white"/>
                   <img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=blue"/>
+                  <img src="https://img.shields.io/badge/Symfony-white?style=flat&logo=symfony&logoColor=black"/>
                 </div>            
               </div>
             </div>
@@ -83,7 +84,10 @@
                   class="flex-column items-start py-3 px-2 space-y-1 ml-2"
                   style="padding-bottom: 25px">
                   <img src="https://img.shields.io/badge/Flutter-white?style=flat&logo=Flutter&logoColor=4eb5de"/>
-                  <img src="https://img.shields.io/badge/Dart-white?style=flat&logo=Dart&logoColor=4aa9cf"/>
+                  <img src="https://img.shields.io/badge/Dart-black?style=flat&logo=Dart&logoColor=4aa9cf"/>
+                  <img src="https://img.shields.io/badge/React%20native-white?style=flat&logo=react&logoColor=blue"/>
+                  <img src="https://img.shields.io/badge/Typescript-blue?style=flat&logo=typescript&logoColor=white"/>
+
                 </div>
               </div>
             </div>

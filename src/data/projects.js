@@ -1,7 +1,7 @@
 export default [
   {
     name: "AP-3 Deuxième année BTS SIO",
-    id: 1,
+    id: 5,
     content:
       "Application Web Hackat'Innov en php mvc, html, css et javascript",
     image:
@@ -23,7 +23,7 @@ export default [
 
   {
     name: "AP-4 Deuxième année BTS SIO",
-    id: 2,
+    id: 4,
     content:
       "Application de gestion d'un bar restaurant en C# avec Entity Framework",
     image:
@@ -42,7 +42,7 @@ export default [
 
   {
     name: "Stage de première année BTS SIO",
-    id: 3,
+    id: 6,
     content:
       "Applications en ASPX et .NET avec devExpress",
     image:
@@ -58,7 +58,7 @@ export default [
 
   {
     name: "Stage de deuxième année BTS SIO",
-    id: 4,
+    id: 3,
     content:
       "Application de migration de données en WINDEV",
     image:
@@ -70,13 +70,28 @@ export default [
   },
   {
     name: "Stage de deuxième année BTS SIO",
-    id: 5,
+    id: 2,
     content:
       "Gestion des signatures via l'API de Yousign",
     image:
       "/images/yousign.png",
     tech1:
       "https://img.shields.io/badge/WINDEV-363636?style=flat&logo=WINDEV",
+    // live: "https://reactprime505.web.app/",
+    // code: "https://github.com/anaskhonprime",
+  },
+  {
+    name: "Projet d'alternance Licence Professionnelle",
+    id: 1,
+    content:
+      "refonte d'une application mobile en react native",
+    image:
+    "/images/dispoSamu1.jpg", 
+      // "/images/yousign.png",
+    tech1:
+      "https://img.shields.io/badge/React%20native-white?style=flat&logo=react&logoColor=blue",
+    tech2:
+      "https://img.shields.io/badge/TypeScript-white?style=flat&logo=TypeScript&logoColor=blue",
     // live: "https://reactprime505.web.app/",
     // code: "https://github.com/anaskhonprime",
   },
