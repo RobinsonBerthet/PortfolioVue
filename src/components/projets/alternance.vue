@@ -14,20 +14,11 @@
             J'ai alors recrée l'application afin de corriger ce problème et d'optimiser un maximum le code pour qu'il soit plus maintenable et performant.
         </p>
         <br>
-        <div class="flex flex-col lg:flex-row items-center">
+        <div class="flex lg:flex-row space-x-4">
             <img class="imgPart imgUser" src="..\..\..\public\images\dispoSamu2.jpg" />
-            <p>Mise en place d'une authentification email mot de passe</p>
             
+            <img class="imgPart" src="..\..\..\public\images\dispoSamu3.jpg" />            
         </div>
-        <br>
-        <hr>
-        <br>
-        <div class="flex flex-col lg:flex-row items-center">
-            <img class="imgPart" src="..\..\..\public\images\dispoSamu3.jpg" />
-            <p>page d'accueil qui permet d'afficher les disponibilité de chaque ambulance </p>
-        </div>
-        <br>
-        <hr>
         <br>
 
     </div>
